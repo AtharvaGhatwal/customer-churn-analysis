@@ -9,6 +9,18 @@ The goal is to identify **key drivers of churn** and present insights through an
 
 ---
 
+## 📂 Dataset
+- **Source**: Bank Customer Churn dataset (public dataset)
+- **Size**: ~2,000 customers
+- **Target Variable**: `churn` (1 = Churned, 0 = Retained)
+- **Key Features**:
+  - Demographics: age, gender, country
+  - Account info: tenure, number of products, credit score
+  - Financials: balance, estimated salary
+> Note: The dataset used is for educational purposes only.
+
+---
+
 ## 📊 Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
