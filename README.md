@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes customer churn using machine learning and visual analytics.
 The goal is to identify **key drivers of churn** and present insights through an
-**executive-friendly Power BI dashboard**.
+**executive friendly Power BI dashboard**.
 
 ---
 
