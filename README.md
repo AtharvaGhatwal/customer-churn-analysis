@@ -38,6 +38,14 @@ The goal is to identify **key drivers of churn** and present insights through an
 
 ---
 
+## 📈 Results at a Glance
+- Overall churn rate: **20.35%**
+- Total customers analyzed: **2000**
+- Churned customers: **407**
+- Best performing model: **Random Forest**
+
+---
+
 ## ⚙️ Workflow
 1. Data cleaning & encoding (Python)
 2. Model training & evaluation
@@ -59,7 +67,8 @@ churn-analysis/
 ---
 
 ## ▶️ How to Run
+
 1. Clone the repository
 2. Install dependencies using `pip install -r requirements.txt`
-3. Run the Python script to generate predictions
-4. Open the Power BI file to explore the dashboard
+3. Run `python data/data_check.py`
+4. Open `powerbi/churn_dashboard.pbit` in Power BI Desktop
