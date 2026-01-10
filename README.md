@@ -1,4 +1,6 @@
 # Customer Churn Analysis (End-to-End ML + Power BI)
+![GitHub stars](https://img.shields.io/github/stars/AtharvaGhatwal/customer-churn-analysis)
+![GitHub issues](https://img.shields.io/github/issues/AtharvaGhatwal/customer-churn-analysis)
 
 ## 📌 Project Overview
 This project analyzes customer churn using machine learning and visual analytics.
@@ -69,9 +71,22 @@ churn-analysis/
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
-1. Clone the repository
-2. Install dependencies using `pip install -r requirements.txt`
-3. Run `python data/data_check.py`
-4. Open `powerbi/churn_dashboard.pbit` in Power BI Desktop
+1. Clone repo
+```
+git clone https://github.com/AtharvaGhatwal/customer-churn-analysis.git
+```
+2. Install deps  
+```
+pip install -r requirements.txt
+```
+3. Run export script  
+```
+python data/data_check.py
+```
+4. Open dashboard  
+```
+Open the file in `powerbi/churn_dashboard.pbit` with Power BI Desktop
+```
+
