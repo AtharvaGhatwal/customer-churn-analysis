@@ -56,6 +56,8 @@ The goal is to identify **key drivers of churn** and present insights through an
 ---
 
 ## 📁 Project Structure
+
+```
 churn-analysis/
 ├── data/
 ├── notebooks/
@@ -63,6 +65,7 @@ churn-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
