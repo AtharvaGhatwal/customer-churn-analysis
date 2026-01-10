@@ -21,6 +21,20 @@ The goal is to identify **key drivers of churn** and present insights through an
 
 ---
 
+🎯 Use Cases
+
+- Identify high-risk customer segments likely to churn
+
+- Support retention strategies by age, tenure, and product usage
+
+- Help business teams prioritize customers for targeted offers
+
+- Enable management to monitor churn KPIs in an interactive dashboard
+
+- Provide a reusable churn analysis template for similar businesses
+
+---
+
 ## 📊 Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
@@ -102,3 +116,41 @@ python data/data_check.py
 Open the file in `powerbi/churn_dashboard.pbit` with Power BI Desktop
 ```
 
+---
+
+## 📌 Future Improvements
+- Add predicted vs actual model validation visuals in dashboard
+- Deploy ML model as API
+- Add automated CI/CD for data/version control
+
+---
+
+## 👨‍💼 Author
+
+Atharva Ghatwal
+
+📚 B.E. in Artificial Intelligence and Data Science
+
+🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvaghatwal)
+
+🌐 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/AtharvaGhatwal)
+
+---
+
+## 🙏 Acknowledgements
+- Dataset inspired by publicly available **bank customer churn datasets**
+- Thanks to the open-source **Python** and **Power BI** communities for tools and resources
+- Built as part of continuous learning in **machine learning and business analytics**
+
+---
+
+## 📞 Questions or Feedback?
+Feel free to open an **Issue** or submit a **Pull Request** on GitHub.
+
+---
+
+⭐ If you found this project helpful, consider giving the repository a star!
+
+---
+
+**Last Updated:** January 2026
